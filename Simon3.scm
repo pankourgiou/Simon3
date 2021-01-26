@@ -7,4 +7,5 @@
 (string=? "Suse4less"  "Suse4less") 
 (string=? "Ubuntu4less"  "Ubuntu4less") 
 (string=? "Puppy4less"  "Puppy4less")
-(string=? "Kali4less"  "Kali4less")    
+(string=? "Kali4less"  "Kali4less") 
+(string=? "Paranoid Arachnoid" "Paranoid Arachnoid")
